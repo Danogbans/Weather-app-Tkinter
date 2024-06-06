@@ -10,3 +10,21 @@ A simple Python desktop application to fetch and display weather data using the 
 - Fetch weather data for a given location
 - Display temperature, humidity, weather icon, city name, country and weather description
 - Refresh weather data
+
+
+## Prerequisites
+
+- Python 3.x
+- `requests` library
+- `python-dotenv` library
+- OpenWeatherMap API key
+
+## Setup Instructions
+
+### For Developers
+
+1. **Clone the repository:**
+
+   ```sh
+   git clone https://github.com/yourusername/weather_app.git
+   cd weather_app
