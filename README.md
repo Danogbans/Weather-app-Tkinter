@@ -18,6 +18,8 @@ A simple Python desktop application to fetch and display weather data using the 
 - `requests` library
 - `python-dotenv` library
 - OpenWeatherMap API key
+- Pillow
+- Tkinter
 
 ## Setup Instructions
 
