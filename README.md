@@ -36,3 +36,14 @@ A simple Python desktop application to fetch and display weather data using the 
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
 
+3. **Install the required packages:**
+
+```sh
+pip install -r requirements.txt
+
+4. **Create a .env file in the root directory and add your OpenWeatherMap API key:**
+
+5. **Run the application:**
+
+```sh
+python main.py
