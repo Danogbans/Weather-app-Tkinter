@@ -32,6 +32,7 @@ A simple Python desktop application to fetch and display weather data using the 
    cd weather_app
 
 2. **Create and activate a virtual environment:**
-   ```python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```sh
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
 
