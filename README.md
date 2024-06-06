@@ -30,3 +30,8 @@ A simple Python desktop application to fetch and display weather data using the 
    ```sh
    git clone https://github.com/yourusername/weather_app.git
    cd weather_app
+
+2. **Create and activate a virtual environment:**
+   ```python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
