@@ -13,7 +13,7 @@ def obtain_weather_data(location):
     """Obtain weather data for a given location.
     
     Args:
-        location (str): The location for which to fetch weather data
+        location (str): The location for which to fetch weather data.
     
     Returns:
         dict: Weather data if the request is successful, else None."""
