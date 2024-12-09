@@ -5,7 +5,7 @@ import requests
 
 
 API_KEY = os.environ.get("WEATHER_API")
-BASE_URL = "https://api.openweathermap.org/data/2.5/weather"
+BASE_URL = "https://api.openweathermap.org/data/2.5/weather
 
 
 def obtain_weather_data(location):
